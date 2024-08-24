@@ -24,7 +24,7 @@ print("=")
   print("CheckPoint 1")
   
   --// Custom Drawing
-  -- loadstring((syn and syn.request or request)({Url = "https://rentry.co/7osf4/raw", Method = "Get"}).Body)(); -- J4VZ9cJh
+  -- loadstring((syn and syn.request or request)({Url = "https://raw.githubusercontent.com/Sigma-3131/Misery/main/Bruh", Method = "Get"}).Body)(); -- J4VZ9cJh
   local MainColor = Color3.fromRGB(255, 102, 204)
   local CrosshairHandler = loadstring(game:HttpGet('https://raw.githubusercontent.com/Sigma-3131/Misery/main/Crossair', true))() do
     getgenv().crosshair.enabled = false
